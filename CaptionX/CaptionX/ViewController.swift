@@ -17,3 +17,8 @@ class ViewController: UIViewController {
 
 }
 
+public class CaptionX {
+    public func printLogCaption() {
+        print("shiv...")
+    }
+}
